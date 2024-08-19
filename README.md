@@ -5,7 +5,7 @@ kullanıcıdan araba bilgilerini alarak araba nesneleri oluşturur ve listeye ek
 Araba sınıfı, belirtilen özelliklere sahiptir ve üretim tarihi araba nesnesi oluşturulduğu anda otomatik olarak atanır.<br>
 Kullanıcıdan araba üretmek isteyip istemediği sorulur. Geçersiz girişlerde hata mesajı gösterilir ve tekrar sorulur.<br>
 Kullanıcı “e” cevabını verirse, araba nesnesi oluşturulur ve özellikleri kullanıcıdan alınır.<br>
-KapiSayisi için sayısal olmayan bir değer girildiğinde hata mesajı gösterilir ve kullanıcı yeniden yönlendirilir.<br>
+Kapı sayısı için sayısal olmayan bir değer girildiğinde hata mesajı gösterilir ve kullanıcı yeniden yönlendirilir.<br>
 Oluşturulan araba nesnesi arabalar listesine eklenir.<br>
 Kullanıcıya başka araba oluşturmak isteyip istemediği sorulur. “h” cevabını verirse liste yazdırılır ve program sonlandırılır.<br>
 <H4>Gereksinimler</H4>
