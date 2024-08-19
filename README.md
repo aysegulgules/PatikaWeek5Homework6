@@ -2,7 +2,7 @@
 <span style="font-size:0.5em;"># PatikaWeek5Homework6, 
 kullanıcıdan araba bilgilerini alarak araba nesneleri oluşturur ve listeye ekler.
 <H4>Kullanım</H4>
-Araba sınıfı, belirtilen özelliklere sahiptir ve Üretim tarihi araba nesnesi oluşturulduğu anda otomatik olarak atanır.<br>
+Araba sınıfı, belirtilen özelliklere sahiptir ve üretim tarihi araba nesnesi oluşturulduğu anda otomatik olarak atanır.<br>
 Kullanıcıdan araba üretmek isteyip istemediği sorulur. Geçersiz girişlerde hata mesajı gösterilir ve tekrar sorulur.<br>
 Kullanıcı “e” cevabını verirse, araba nesnesi oluşturulur ve özellikleri kullanıcıdan alınır.<br>
 KapiSayisi için sayısal olmayan bir değer girildiğinde hata mesajı gösterilir ve kullanıcı yeniden yönlendirilir.<br>
